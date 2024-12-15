@@ -1,0 +1,73 @@
+/* -----------------------------
+  Html Redifined Tags
+  -------------------------------*/
+body{
+	
+	margin:0;
+	padding:20px;
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+	}
+#container{
+	width:1800px;
+	margin:auto;
+	border:1px solid red;
+	
+}	
+#header{
+	width:auto;
+	height:60px;
+	border:1px solid blue;
+	display:block;
+	
+	}
+#menu_bar{
+	width:auto;
+	height:28px;
+	display:block;
+	border:1px solid green;
+	
+}
+#main_content{
+	width:auto;
+	display:block;
+	padding:10px;
+	border:1px solid red;
+	
+}
+#left_column{
+	
+	width:700px;
+	border:1px solid red;
+	float:left;
+	
+	
+	
+
+}
+#middle_column{
+	width:700px;
+	border:1px solid blue;
+	float:left;
+	
+	
+}
+
+#right_column{
+	width:372px;
+	border:1px solid green;
+	float:left;
+}
+#spacer{
+	width:auto;
+	border:1px solid green;
+	clear:left;
+	}
+	
+#footer{
+	width:auto;
+	border:1px solid green;
+	padding:10px 0px;
+	
+}
+	
